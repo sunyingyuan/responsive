@@ -43,3 +43,6 @@
     prefix-free文件夹
     prefixfree.min.js
     
+11.IE 6 7 8 中添加响应式布局
+
+    可以采用respond.js
