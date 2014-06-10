@@ -1,5 +1,5 @@
-＃Respond.js
-＃＃＃快速轻巧polyfill最小/最大宽度CSS3媒体查询（为IE 6-8，及更多）
+#Respond.js
+###快速轻巧polyfill最小/最大宽度CSS3媒体查询（为IE 6-8，及更多）
 
   - 版权所有2011：Scott Jehl, scottjehl.com
 
